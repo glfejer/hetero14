@@ -1,3 +1,7 @@
+//#include "cuda_runtime.h"
+//#include "device_launch_parameters.h"
+
+
 #include	<wb.h>
 
 //@@ The purpose of this code is to become familiar with the submission 
